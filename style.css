@@ -1,7 +1,3 @@
-/* * {
-    border: 2px solid black;
-} */
-
 body {
     display: flex;
     flex-direction: column;
@@ -83,7 +79,6 @@ body {
 }
 
 .random .box {
-    /* display: flex; */
     border: 3px solid #c3f00b;
     height: 100px;
     width: 100px;
@@ -133,18 +128,13 @@ body {
     display: flex;
     flex-direction: column;
     font-size: 20px;
-    /* align-items: center; */
-    /* flex-grow: 2; */
 }
 
 .sign-up .container button {
-    /* flex: auto; */
     justify-content: center;
     padding: 10px;
     width: 150px;
-    /* height: 25px; */
     border: 2px solid white;
-    /* margin-right: 50px; */
 }
 
 .footer {
@@ -154,7 +144,6 @@ body {
     color: white;
 }
 
-/* Text */
 h1 {
     font-size: 48px;
     font-weight:bolder;
@@ -199,7 +188,6 @@ li {
   
   ul {
     display: flex;
-    /* align-items: center; */
     gap: 10px;
     padding: 0px;
     margin: 0px;
